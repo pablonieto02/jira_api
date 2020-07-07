@@ -1,0 +1,19 @@
+{
+    "errorMessages": [],
+    "errors": {
+        "customfield_10000": "Field 'customfield_10000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_20000": "Field 'customfield_20000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_30000": "Field 'customfield_30000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_40000": "Field 'customfield_40000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_50000": "Field 'customfield_50000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_60000": "Field 'customfield_60000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_70000": "Field 'customfield_70000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "customfield_80000": "Field 'customfield_80000' cannot be set. It is not on the appropriate screen, or unknown.",
+        "duedate": "Field 'duedate' cannot be set. It is not on the appropriate screen, or unknown.",
+        "environment": "Field 'environment' cannot be set. It is not on the appropriate screen, or unknown.",
+        "parent": "Could not find issue by id or key.",
+        "security": "Field 'security' cannot be set. It is not on the appropriate screen, or unknown.",
+        "timetracking": "Field 'timetracking' cannot be set. It is not on the appropriate screen, or unknown.",
+        "versions": "Field 'versions' cannot be set. It is not on the appropriate screen, or unknown."
+    }
+}
